@@ -1,0 +1,39 @@
+.container {
+  height: 100px;
+  color: black;
+}
+.header {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+.table {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+  color: black;
+}
+img {
+  height: 60px;
+}
+#imageOne,
+#imageTwo {
+  height: 200px;
+}
+button {
+  border: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+button:hover {
+  border: 1px solid grey;
+}
+.btn {
+  border: 1px solid grey;
+  margin: 5px;
+  border-radius: 2px;
+}
+.btn:hover {
+  background-color: thistle;
+}
